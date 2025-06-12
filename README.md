@@ -1,6 +1,9 @@
 # Income-Segmentation_Project
 This project focuses on income segmentation using KMeans clustering on a dataset of individuals' income and age. Understanding income distribution is crucial for various sectors, including marketing, finance, and policy-making. By segmenting individuals based on their income and age, we can uncover valuable insights that inform targeted strategies and decision-making.
 
+![Screenshot 2025-06-12 232607](https://github.com/user-attachments/assets/f78ca10d-2d68-4a5b-b337-b626b9aace06)
+
+
 ## Importance of Segmentation Project:
 - **Understanding Income Distribution**: This project visualizes how income is distributed across different age groups, which is essential for businesses and policymakers.
 - **Targeted Marketing**: Companies can leverage insights from a customer segmentation analysis to tailor their marketing strategies to specific income groups, enhancing customer engagement.
